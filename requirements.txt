@@ -3,5 +3,5 @@ Django==1.11
 parso==0.1.1
 mercurial==4.6
 maas==1.2.1
-urllib3==1.10.1
+urllib3==1.25.9
 buildbot==0.9.0
